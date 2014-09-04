@@ -1,0 +1,75 @@
+Failure to transfer org.apache.maven.plugins:maven-surefire-plugin:pom:2.10 from http://repo.maven.apache.org/maven2 
+ was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or 
+ updates are forced. 
+ 
+ Original error: Could not transfer artifact org.apache.maven.plugins:maven-surefire-plugin:pom:2.10 
+ from/to central (http://repo.maven.apache.org/maven2): 
+ 
+ Connection refused: 
+ no further information to http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom
+ 
+ 
+ 
+ 
+ --------------
+ Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:2.3.2:compile (default-compile) on project CardLinX-Common: Compilation failure: Compilation failure:
+[ERROR] error: error reading D:\Localrepository\com\oracle\ojdbc6\11.2.0.3\ojdbc6-11.2.0.3.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\commons-io\commons-io\1.3.2\commons-io-1.3.2.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-core\3.2.3.RELEASE\spring-core-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-context\3.2.3.RELEASE\spring-context-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-expression\3.2.3.RELEASE\spring-expression-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-context-support\3.2.3.RELEASE\spring-context-support-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-aop\3.2.3.RELEASE\spring-aop-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-web\3.2.3.RELEASE\spring-web-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-aspects\3.2.3.RELEASE\spring-aspects-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\aspectj\aspectjweaver\1.7.2\aspectjweaver-1.7.2.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-tx\3.2.3.RELEASE\spring-tx-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-beans\3.2.3.RELEASE\spring-beans-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\springframework\spring-jdbc\3.2.3.RELEASE\spring-jdbc-3.2.3.RELEASE.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\hibernate\hibernate-entitymanager\4.2.8.Final\hibernate-entitymanager-4.2.8.Final.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\jboss\logging\jboss-logging\3.1.0.GA\jboss-logging-3.1.0.GA.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.1_spec\1.0.1.Final\jboss-transaction-api_1.1_spec-1.0.1.Final.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\hibernate\javax\persistence\hibernate-jpa-2.0-api\1.0.1.Final\hibernate-jpa-2.0-api-1.0.1.Final.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\hibernate\common\hibernate-commons-annotations\4.0.2.Final\hibernate-commons-annotations-4.0.2.Final.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\hibernate\hibernate-ehcache\4.2.8.Final\hibernate-ehcache-4.2.8.Final.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\net\sf\ehcache\ehcache-core\2.4.3\ehcache-core-2.4.3.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\hibernate\hibernate-jpamodelgen\4.3.0.Final\hibernate-jpamodelgen-4.3.0.Final.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\jboss\logging\jboss-logging-annotations\1.2.0.Beta1\jboss-logging-annotations-1.2.0.Beta1.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\hibernate\hibernate-envers\4.2.8.Final\hibernate-envers-4.2.8.Final.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\org\hibernate\hibernate-core\4.2.8.Final\hibernate-core-4.2.8.Final.jar; error in opening zip file
+
+[ERROR] error: error reading D:\Localrepository\antlr\antlr\2.7.7\antlr-2.7.7.jar; error in opening zip file
+-----------------------------------------------
